@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/mustkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mustkov" height="30" width="40" /></a>
-<a href="https://t.me/mustkov" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/768px-Telegram_Messenger.png" alt="mustkov" height="30" width="40" /></a>
+<a href="https://t.me/mustkov" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="mustkov" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
