@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I`m Andrey Dolzhenkov</h1>
 <h3 align="center">Frontend-developer from Russia, Samara</h3>
 
-- 💬 Ask me about **react, redux**
-
 - 📫 How to reach me **dolzhenkov74@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
