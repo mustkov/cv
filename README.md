@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I`m Andrey Dolzhenkov</h1>
 <h3 align="center">Frontend-developer from Russia, Samara</h3>
 
+- ☀️ Преисполняюсь в своём познании React
+- 👯 Буду рад любому сотрудничеству и дельному совету
 - 📫 How to reach me **dolzhenkov74@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
